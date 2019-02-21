@@ -9,6 +9,7 @@ This Windows desktop application was designed to organize private accounting man
   Author:string - name of buyer
   
 To simplify the division of the products there were designed to levels of grouping:
+
 1) Main division (Division.cs) corresponds to the general division (like 'Food','Clothes','Health' etc)
 2) Narrow division (Category.cs) corresponds to a more detailed groups (like 'Milk production','Fruits','Vegetables' etc)
 
@@ -17,8 +18,10 @@ This implies that each "category" belongs to one "division" (unfortunately, the 
 The application structure:
         
 1) "All purchases" tab is correspondingly the main tab of this application. It has the following functions: 
+
       a) viewing/filtering/editing all the previous purchases
       b) adding/editting one's purchase
+      
 2) "Reports" tab allows to view some general aspects of data collected during selected periods of time. One might build either a detailed or general report (including smaller or larger groups of products). 
 
 
