@@ -1,0 +1,75 @@
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.Properties.Resources.resources
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.MainForm.resources
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\C#\CashCounter\CashCounter\bin\Debug\CashCounter.exe
+D:\Projects\C#\CashCounter\CashCounter\bin\Debug\CashCounter.pdb
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.exe
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.pdb
+D:\Projects\C#\CashCounter\CashCounter\bin\Debug\CashCounter.exe.config
+D:\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.EditValue.resources
+C:\Users\Olga\Dropbox\Projects\C#\CashCounter\CashCounter\bin\Debug\CashCounter.exe.config
+C:\Users\Olga\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.exe
+C:\Users\Olga\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\bin\Debug\CashCounter.exe.config
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\bin\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\bin\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.EditValue.resources
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.MainForm.resources
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Projects\C#\CashCounter\CashCounter\obj\x86\Debug\CashCounter.csprojResolveAssemblyReference.cache
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\bin\Debug\CashCounter.exe.config
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\obj\x86\Debug\CashCounter.exe
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\obj\x86\Debug\CashCounter.pdb
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\bin\Debug\CashCounter.exe
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\bin\Debug\CashCounter.pdb
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\obj\x86\Debug\CashCounter.csprojResolveAssemblyReference.cache
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\obj\x86\Debug\CashCounter.Properties.Resources.resources
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.EditValue.resources
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.MainForm.resources
+D:\Rabota\Dropbox\Leska\Cash\CashCounter\obj\x86\Debug\CashCounter.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\bin\Debug\CashCounter.exe.config
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\obj\x86\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\obj\x86\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\bin\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\obj\x86\Debug\CashCounter.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.EditValue.resources
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.MainForm.resources
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\obj\x86\Debug\CashCounter.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Shared folders\LeskaPashka\Cash\CashCounter\bin\Debug\CashCounter.pdb
+C:\Users\olgaa\Desktop\Cash\CashCounter\bin\Debug\CashCounter.exe.config
+C:\Users\olgaa\Desktop\Cash\CashCounter\obj\x86\Debug\CashCounter.exe
+C:\Users\olgaa\Desktop\Cash\CashCounter\obj\x86\Debug\CashCounter.pdb
+C:\Users\olgaa\Desktop\Cash\CashCounter\obj\x86\Debug\CashCounter.Properties.Resources.resources
+C:\Users\olgaa\Desktop\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.EditValue.resources
+C:\Users\olgaa\Desktop\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.MainForm.resources
+C:\Users\olgaa\Desktop\Cash\CashCounter\obj\x86\Debug\CashCounter.csproj.GenerateResource.Cache
+C:\Users\olgaa\Desktop\Cash\CashCounter\bin\Debug\CashCounter.exe
+C:\Users\olgaa\Desktop\Cash\CashCounter\bin\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\bin\Debug\CashCounter.exe.config
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\obj\x86\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\obj\x86\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\bin\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\bin\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\obj\x86\Debug\CashCounter.csprojResolveAssemblyReference.cache
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\obj\x86\Debug\CashCounter.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.EditValue.resources
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.MainForm.resources
+C:\Users\olgaa\Dropbox\Projects\C#\Cash\CashCounter\obj\x86\Debug\CashCounter.csproj.GenerateResource.Cache
+C:\General\Official projects\CashCounter\CashCounter\bin\Debug\CashCounter.exe.config
+C:\General\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.exe
+C:\General\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\bin\Debug\CashCounter.exe.config
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\bin\Debug\CashCounter.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\bin\Debug\CashCounter.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.csprojResolveAssemblyReference.cache
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.EditValue.resources
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.UserInterfaceLayer.MainForm.resources
+C:\Users\olgaa\Dropbox\Projects\Official projects\CashCounter\CashCounter\obj\x86\Debug\CashCounter.csproj.GenerateResource.Cache
