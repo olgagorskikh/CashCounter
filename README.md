@@ -1,12 +1,14 @@
 # CashCounter
 This Windows desktop application was designed to organize private accounting management for a couple (but the number of users might be easily incresed/descreased, although currently it is hardcoded in MainForm.cs). The main class in this piece of software is Product.cs, it is related to purchases and has the following fields:
 
+
   Id:int - product identifier
   CategoryId:int - identifier of the category this product belongs
   Name:string - product name
   Price:double - product price
   Date:DateTime - date of purchase
   Author:string - name of buyer
+  
   
 To simplify the division of the products there were designed to levels of grouping:
 
