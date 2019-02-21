@@ -24,8 +24,10 @@ This implies that each "category" belongs to one "division" (unfortunately, the 
       * viewing/filtering/editing all the previous purchases
       * adding/editting one's purchase
       
-2) "Reports" tab allows to view some general aspects of data collected during selected periods of time. One might build either a detailed or general report (including smaller or larger groups of products). 
+![](4.PNG)
+      
+2) "Reports" tab allows to view some general aspects of data collected during selected periods of time. One might build either a detailed or general report (including smaller or larger groups of products). NOTE! All the negative numbers are meant to be income, whereas all positive are the spendings. 
 
-
+![](5.PNG)
   
       
